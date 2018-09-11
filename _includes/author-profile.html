@@ -48,6 +48,20 @@
         </li>
       {% endif %}
 
+      {% if author.location2 %}
+        <li itemprop="homeLocation2" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location2 }}</span>
+        </li>
+      {% endif %}
+
+      {% if author.location3 %}
+        <li itemprop="homeLocation3" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location3 }}</span>
+        </li>
+      {% endif %}
+
+
+
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
