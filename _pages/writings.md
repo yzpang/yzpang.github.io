@@ -16,7 +16,7 @@ For now, there is only one article. I will update soon.
 <head>
 <style>
 p.medium {
-    line-height: 1.2;
+    line-height: 1.3;
 }
 
 p.big {
@@ -32,7 +32,7 @@ p.big {
 
 
 <h3>Objection to Hume’s Position on the Argumentative Circle</h3>
-<font size="4">
+<font size="3">
 Richard Pang, in 2016
 </font>
 
