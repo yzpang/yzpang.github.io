@@ -8,7 +8,7 @@ comments: true
 
 
 <font size="4">
-Will update soon!
+Will update soon! First work on style transfer or controlled text generation. Second work on structured prediction.
 </font>
 
 
