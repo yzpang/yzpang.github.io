@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuanzhe (Richard) Pang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./_pages/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Chicago"
   location         : "Chicago, IL, USA"
   location2         : "Beijing, China"
