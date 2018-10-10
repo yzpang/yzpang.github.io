@@ -12,4 +12,8 @@
 <url>
 <loc>http://localhost:4000/writings/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/misc-files/mi-avril.pdf</loc>
+<lastmod>2016-06-07T14:11:09-05:00</lastmod>
+</url>
 </urlset>
