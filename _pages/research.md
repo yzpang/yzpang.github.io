@@ -7,27 +7,87 @@ comments: true
 ---
 
 
-<font size="4">
-Will update soon! First work on style transfer or controlled text generation. Second work on structured prediction.
-</font>
-
 
 <html>
 <head>
 <style>
+p.xsmall {
+    line-height: 1.55;
+    font-size: 9.5pt;
+    margin-left: 0px; 
+}
+
+p.small {
+    line-height: 1.55;
+    font-size: 11.5pt;
+    margin-left: 0px; 
+}
+
+p.small2 {
+    line-height: 2.00;
+    font-size: 11.5pt;
+    margin-left: 0px; 
+}
+
 p.medium {
-    line-height: 1.2;
+    line-height: 1.55;
+    font-size: 12.5pt;
+    margin-left: 0px; 
 }
 
 p.big {
-    line-height: 1.8;
+    line-height: 1.55;
 }
+
+p.noindent {
+    line-height: 1.55;
+    font-size: 13pt;
+}
+
 
 </style>
 </head>
+
+
 <body>
 
 
 
 
-</body>
+<br>
+
+<p class="small">
+<span style="font-weight:500"> <a style="font-size: 12pt; color: #004D4D"> Learning Criteria and Evaluation Metrics for Textual Transfer <br> between Non-Parallel Corpora </a> <br> </span>
+<span style="line-height:210%"> Yuanzhe Pang, Kevin Gimpel </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> We consider the problem of automatically generating textual paraphrases with modified attributes or stylistic properties, focusing on the setting without parallel data (Hu et al., 2017; Shen et al., 2017). This setting poses challenges for learning and evaluation. We show that the metric of post-transfer classification accuracy is insufficient on its own, and propose additional metrics based on semantic content preservation and fluency. For reliable evaluation, all three metric categories must be taken into account. We contribute new loss functions and training strategies to address the new metrics. Semantic preservation is addressed by adding a cyclic consistency loss and a loss based on paraphrase pairs, while fluency is improved by integrating losses based on style-specific language models. Automatic and manual evaluation show large improvements over the baseline method of Shen et al. (2017). Our hope is that these losses and metrics can be general and useful tools for a range of textual transfer settings without parallel corpora.
+</p>
+
+
+
+
+<br><br><br>
+
+
+
+
+
+<p class="small">
+
+The textual transfer paper will be posted online by the end of October. Work in progress: Approximate inference network in structured prediction. 
+<br><br>
+Will update soon!
+
+
+
+
+<p>
+
+
+
+
+
+
+
+
+
