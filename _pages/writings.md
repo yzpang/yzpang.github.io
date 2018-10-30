@@ -31,6 +31,5 @@ p.big {
 <br><br>
 
 
-<a href="./hume.html" style="font-size: 14pt; color: #0033cc"> <h3>Objection to Hume’s Position on the Argumentative Circle</h3> </a>
-<span style="font-size: 12pt"> Richard Pang, in 2016 </span>
+<a href="./hume.html" style="font-size: 13pt; color: #0033cc; text-decoration: none"> <h3>Objection to Hume’s Position on the Argumentative Circle</h3> </a>
 
