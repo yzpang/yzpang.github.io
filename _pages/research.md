@@ -80,7 +80,7 @@ p.noindent {
 
 <p class="small">
 
-The textual transfer paper will be posted online by the end of October. Work in progress: Approximate inference network in structured prediction. 
+Work in progress: Approximate inference network in structured prediction. 
 <br><br>
 Will update soon!
 
