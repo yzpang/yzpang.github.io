@@ -72,7 +72,7 @@ p.noindent {
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -80,10 +80,11 @@ p.noindent {
 
 <p class="small">
 
-Work in progress: Approximate inference network in structured prediction. 
-<br><br>
-Will update soon!
+My second research project is on approximate inference network in structured prediction. It is not posted here due to certain policy. To learn more, please email me for detailed CV.
 
+<br><br>
+
+More materials coming soon!
 
 
 
