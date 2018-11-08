@@ -43,7 +43,7 @@ p.big {
 
 </p>
 
-<br><br>
+<br>
 
 <span style="font-size: 13pt; color: #004d00"> Biology </span>
 
@@ -52,3 +52,16 @@ p.big {
 <p style="font-size: 13pt; color: #004d00; margin-left: 40px; text-decoration: none">
 <a href="../misc-files/pang-bios-gfp-2018.pdf" style="color: #004d00; text-decoration: none"> Strong Stability and Spontaneous Fluorescence of Green Fluorescent Protein with Mutation S65T (course project) </a>
 </p>
+
+
+<br>
+
+<span style="font-size: 13pt; color: #800000"> Composition </span>
+
+<br>
+
+<p style="font-size: 13pt; color: #800000; margin-left: 40px; text-decoration: none">
+<a href="../misc-files/mi-avril.pdf" style="color: #800000; text-decoration: none"> Mi-avril (for piano) </a>
+</p>
+
+
