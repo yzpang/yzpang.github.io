@@ -45,7 +45,7 @@ p.big {
 
 <br>
 
-<span style="font-size: 13pt; color: #004d00"> Biology </span>
+<span style="font-size: 13pt; color: #004d00"> Misc </span>
 
 <br>
 
