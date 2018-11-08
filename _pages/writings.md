@@ -30,6 +30,25 @@ p.big {
 
 <br><br>
 
+<span style="font-size: 13pt; color: #000099"> Philosophy </span>
 
-<a href="./hume.html" style="font-size: 13pt; color: #0033cc; text-decoration: none"> <h3>Objection to Hume’s Position on the Argumentative Circle</h3> </a>
+<br>
 
+<p style="font-size: 13pt; color: #000099; margin-left: 40px; text-decoration: none">
+<a href="./hume.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Objection to Hume’s Position on the Argumentative Circle </a>
+<br>
+<a href="./knowledge.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Oedipus' <i>Unconscious Knowledge</i>: Is it Really Ignorance? </a>
+<br>
+<a href="./power.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Can We Study <i>Power</i> Scienfically? </a>
+
+</p>
+
+<br><br>
+
+<span style="font-size: 13pt; color: #004d00"> Biology </span>
+
+<br>
+
+<p style="font-size: 13pt; color: #004d00; margin-left: 40px; text-decoration: none">
+<a href="../misc-files/pang-bios-gfp-2018.pdf" style="color: #004d00; text-decoration: none"> Strong Stability and Spontaneous Fluorescence of Green Fluorescent Protein with Mutation S65T (course project) </a>
+</p>

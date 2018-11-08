@@ -10,6 +10,12 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/writings/knowledge.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/writings/power.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/research/</loc>
 </url>
 <url>
@@ -18,5 +24,9 @@
 <url>
 <loc>http://localhost:4000/misc-files/mi-avril.pdf</loc>
 <lastmod>2016-06-07T14:11:09-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/misc-files/pang-bios-gfp-2018.pdf</loc>
+<lastmod>2018-11-07T22:50:58-06:00</lastmod>
 </url>
 </urlset>
