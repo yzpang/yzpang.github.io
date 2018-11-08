@@ -39,7 +39,7 @@ p.big {
 <br>
 <a href="./knowledge.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Oedipus' <i>Unconscious Knowledge</i>: Is it Really Ignorance? </a>
 <br>
-<a href="./power.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Can We Study <i>Power</i> Scienfically? </a>
+<a href="./power.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Can We Study <i>Power</i> Scientifically? </a>
 
 </p>
 
