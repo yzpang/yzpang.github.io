@@ -1,5 +1,5 @@
-@article{pang2018transfer,
-  title={Learning criteria and evaluation metrics for textual transfer between non-parallel corpora},
+@article{pang2018learning,
+  title={Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora},
   author={Pang, Yuanzhe and Gimpel, Kevin},
   journal={arXiv preprint arXiv:1810.11878},
   year={2018}
