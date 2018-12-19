@@ -9,13 +9,16 @@ comments: true
 
 <font size="4">
 
-<a href="https://en.wikipedia.org/wiki/Burton–Judson_Courts" style="color: #940000">Here</a> is the Wiki page of Burton-Judson Courts, a place with unparalleled house culture. And here are my pictures. 
+<a href="https://en.wikipedia.org/wiki/Burton–Judson_Courts" style="color: #940000">Here</a> is the Wiki page of Burton-Judson Courts, a place with unparalleled house culture. Below are my pictures. 
 
 </font>
 
 
 <img src="../_pages/images/bj1.JPG" alt="Burton-Judson-1" class="center" width="555" height="333">
+<br><br>
 <img src="../_pages/images/bj2.JPG" alt="Burton-Judson-2" class="center" width="555" height="333">
+<br><br>
+<img src="../_pages/images/bj3.JPG" alt="Burton-Judson-3" class="center" width="555" height="333">
 
 
 

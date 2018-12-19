@@ -80,7 +80,7 @@ p.noindent {
 
 <p class="small">
 
-My second research project is on inference network for structured prediction. To learn more, please email me for detailed CV.
+My second (completed) research project is on approximate inference for structured prediction. To learn more, please email me for detailed CV.
 
 <br><br>
 

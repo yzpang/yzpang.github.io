@@ -8,7 +8,7 @@ comments: true
 
 
 <font size="4">
-More materials coming soon.
+Miscellaneous writings. More materials coming soon.
 </font>
 
 
@@ -30,11 +30,11 @@ p.big {
 
 <br><br>
 
-<span style="font-size: 13pt; color: #000099"> Philosophy </span>
+<!-- <span style="font-size: 13pt; color: #000099"> Philosophy </span>
 
-<br>
+<br> -->
 
-<p style="font-size: 13pt; color: #000099; margin-left: 40px; text-decoration: none">
+<p style="font-size: 13pt; color: #000099; margin-left: 0px; text-decoration: none">
 <a href="./hume.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Objection to Hume’s Position on the Argumentative Circle </a>
 <br>
 <a href="./knowledge.html" style="font-size: 13pt; color: #000099; line-height:210%; text-decoration: none"> Oedipus' <i>Unconscious Knowledge</i>: Is it Really Ignorance? </a>
