@@ -1,0 +1,6 @@
+@article{pang2018unsupervised,
+  title={Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer},
+  author={Pang, Richard Yuanzhe and Gimpel, Kevin},
+  journal={arXiv preprint arXiv:1810.11878},
+  year={2018}
+}
