@@ -1,0 +1,6 @@
+@article{tu2019improving,
+  title={Improving Joint Training of Inference Networks and Structured Prediction Energy Networks},
+  author={Lifu Tu and Richard Yuanzhe Pang and Kevin Gimpel},
+  journal={arXiv preprint arXiv:1911.02891},
+  year={2019}
+}
