@@ -5,7 +5,7 @@
     booktitle = "Proceedings of the 3rd Workshop on Neural Generation and Translation",
     month = nov,
     year = "2019",
-    address = "Hong Kong",
+    address = "Hong Kong, China",
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/D19-5614",
     pages = "138--147",
