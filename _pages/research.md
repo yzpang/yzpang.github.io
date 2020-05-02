@@ -95,7 +95,7 @@ p.noindent {
 
 
 <p class="small">
-<span style="font-weight:500"> <a style="font-size: 12pt; color: #6F4195; text-decoration: none"> Learning Energy-Based Inference Networks for Non-Autoregressive Neural Machine Translation </a> <br> </span>
+<span style="font-weight:500"> <a style="font-size: 12pt; color: #6F4195; text-decoration: none"> ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a> <br> </span>
 <span style="line-height:210%"> Lifu Tu, Richard Yuanzhe Pang, Sam Wiseman, Kevin Gimpel</span>
 <br>
 <span style="line-height:170%; font-size: 10.5pt"> In <i>Proceedings of ACL 2020</i> </span>
