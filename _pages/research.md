@@ -147,7 +147,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/1810.11878.pdf" style="color: #005F5F; text-decoration: none">paper</a>] [<a href="https://arxiv.org/pdf/1810.11878.pdf#page=11" style="color: #005F5F; text-decoration: none">supplementals</a>] [<a href="https://github.com/yzpang/textual-transfer-eval" style="color: #005F5F; text-decoration: none">code</a>] [<a href="../misc-files/pang+gimpel-textual-transfer-poster.pdf" style="color: #005F5F; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2018unsupervised.txt" style="color: #005F5F; text-decoration: none">BibTeX</a>]
+[<a href="https://arxiv.org/pdf/1810.11878.pdf" style="color: #005F5F; text-decoration: none">paper</a>] [<a href="https://arxiv.org/pdf/1810.11878.pdf#page=11" style="color: #005F5F; text-decoration: none">supplementals</a>] [<a href="../misc-files/pang+gimpel-textual-transfer-poster.pdf" style="color: #005F5F; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2018unsupervised.txt" style="color: #005F5F; text-decoration: none">BibTeX</a>]
 </p>
 
 
