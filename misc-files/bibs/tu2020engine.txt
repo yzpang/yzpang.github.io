@@ -1,0 +1,6 @@
+@article{tu2020engine,
+  title={ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation},
+  author={Tu, Lifu and Pang, Richard Yuanzhe and Wiseman, Sam and Gimpel, Kevin},
+  journal={arXiv preprint arXiv:2005.00850},
+  year={2020}
+}

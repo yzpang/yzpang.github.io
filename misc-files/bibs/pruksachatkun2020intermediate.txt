@@ -1,0 +1,6 @@
+@article{pruksachatkun2020intermediate,
+  title={Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?},
+  author={Pruksachatkun, Yada and Phang, Jason and Liu, Haokun and Htut, Phu Mon and Zhang, Xiaoyi and Pang, Richard Yuanzhe and Vania, Clara and Kann, Katharina and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:2005.00628},
+  year={2020}
+}
