@@ -95,7 +95,7 @@ p.noindent {
 
 
 <p class="small">
-<span style="font-weight:500"> <a href="https://arxiv.org/abs/2005.00850" name="exactline-acl20-a" style="font-size: 12pt; color: #7A48A4; text-decoration: none"> ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a> <br> </span>
+<span style="font-weight:500"> <a href="https://arxiv.org/abs/2005.00850" name="exactline-acl20-a" style="font-size: 12pt; color: #753DA4; text-decoration: none"> ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a> <br> </span>
 <span style="line-height:160%"> Lifu Tu, Richard Yuanzhe Pang, Sam Wiseman, Kevin Gimpel</span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ACL 2020</i> </span>
@@ -104,7 +104,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2005.00850.pdf" style="color: #7A48A4; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/tu2020engine.txt" style="color: #7A48A4; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2005.00850.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/tu2020engine.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
 </p>
 
 
