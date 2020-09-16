@@ -79,14 +79,14 @@ p.noindent {
 <br>
 
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-spen" href="https://arxiv.org/abs/1911.02891" style="font-size: 12pt; color: #087E64; text-decoration: none"> Improving Joint Training of Inference Networks and Structured Prediction Energy Networks </a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-spen" href="https://arxiv.org/abs/1911.02891" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Improving Joint Training of Inference Networks and Structured Prediction Energy Networks </a> <br> </span>
 <span style="line-height:160%"> Lifu Tu, Richard Yuanzhe Pang, Kevin Gimpel </span>
 
 <p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Deep energy-based models are powerful, but pose challenges for learning and inference (Belanger and McCallum, 2016). Tu and Gimpel (2018) developed an efficient framework for energy-based models by training "inference networks" to approximate structured inference instead of using gradient descent. However, their alternating optimization approach suffers from instabilities during training, requiring additional loss terms and careful hyperparameter tuning. In this paper, we contribute several strategies to stabilize and improve this joint training of energy functions and inference networks for structured prediction. We design a compound objective to jointly train both cost-augmented and test-time inference networks along with the energy function. We propose joint parameterizations for the inference networks that encourage them to capture complementary functionality during learning. We empirically validate our strategies on two sequence labeling tasks, showing easier paths to strong performance than prior work, as well as further improvements with global energy terms.
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/1911.02891.pdf" style="color: #087E64; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/tu2019improving.txt" style="color: #087E64; text-decoration: none">bibtex</a>] 
+[<a href="https://arxiv.org/pdf/1911.02891.pdf" style="color: #0A897D; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/tu2019improving.txt" style="color: #0A897D; text-decoration: none">bibtex</a>] 
 </p>
 
 
@@ -97,7 +97,7 @@ p.noindent {
 
 <!-- <font size="3"> -->
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-emnlp20-a" href="https://arxiv.org/abs/2002.02492" style="font-size: 12pt; color: #087E64; text-decoration: none"> Consistency of a Recurrent Language Model With Respect to Incomplete Decoding </a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-emnlp20-a" href="https://arxiv.org/abs/2002.02492" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Consistency of a Recurrent Language Model With Respect to Incomplete Decoding </a> <br> </span>
 <span style="line-height:160%"> Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang, Kyunghyun Cho </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EMNLP 2020</i> </span>
@@ -106,7 +106,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2002.02492.pdf" style="color: #087E64; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/welleck2020consistency.txt" style="color: #087E64; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2002.02492.pdf" style="color: #0A897D; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/welleck2020consistency.txt" style="color: #0A897D; text-decoration: none">bibtex</a>]
 </p>
 
 
