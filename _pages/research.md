@@ -63,14 +63,14 @@ p.noindent {
 
 <!-- <font size="3"> -->
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-off-policy-gen" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Off-Policy Demonstrations</a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-off-policy-gen" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Off-Policy Demonstrations</a> <br> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, He He </span>
 
-<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> To add.
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Current approaches to text generation largely rely on autoregressive models and maximum likelihood estimation. This paradigm leads to (i) diverse but low-quality samples due to mismatched learning objective and evaluation metric (likelihood vs. quality) and (ii) exposure bias due to mismatched history distributions (gold vs. model-generated). To alleviate these problems, we frame text generation as a reinforcement learning (RL) problem with expert demonstrations (i.e., the training data), where the goal is to maximize quality given model-generated histories. Prior RL approaches to generation often face optimization issues due to the large action space and sparse reward. We propose GOLD (generation by off-policy learning from demonstrations): an algorithm that learns from the off-policy demonstrations by importance weighting and does not suffer from degenerative solutions. We find that GOLD outperforms the baselines according to automatic and human evaluation on summarization, question generation, and machine translation, including attaining state-of-the-art results for CNN/DailyMail summarization. Further, we show that models trained by GOLD are less sensitive to decoding algorithms and the generation quality does not degrade much as the length increases.
 
 <br><br>
 
-[<a style="color: #023DB4; text-decoration: none">paper (soon)</a>]
+[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper</a>]
 
 </p>
 
