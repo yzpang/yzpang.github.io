@@ -1,0 +1,6 @@
+@article{pang2020text,
+  title={Text Generation by Learning from Off-Policy Demonstrations},
+  author={Pang, Richard Yuanzhe and He, He},
+  journal={arXiv preprint arXiv:2009.07839},
+  year={2020}
+}
