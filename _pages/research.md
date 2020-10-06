@@ -108,7 +108,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2002.02492.pdf" style="color: #0A897D; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/welleck2020consistency.txt" style="color: #0A897D; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2002.02492.pdf" style="color: #0A897D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/welleck2020consistency.txt" style="color: #0A897D; text-decoration: none">bibtex</a>]
 </p>
 
 
