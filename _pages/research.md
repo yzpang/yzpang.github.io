@@ -102,7 +102,7 @@ p.noindent {
 <span style="font-weight:500"> <a name="exactline-emnlp20-a" href="https://arxiv.org/abs/2002.02492" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Consistency of a Recurrent Language Model With Respect to Incomplete Decoding </a> <br> </span>
 <span style="line-height:160%"> Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang, Kyunghyun Cho </span>
 <br>
-<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EMNLP 2020</i> </span>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EMNLP 2020</i>; also appearing in the non-archival <i>DeepMath 2020</i> </span>
 
 <p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Despite strong performance on a variety of tasks, neural sequence models trained with maximum likelihood have been shown to exhibit issues such as length bias and degenerate repetition. We study the related issue of receiving infinite-length sequences from a recurrent language model when using common decoding algorithms. To analyze this issue, we first define inconsistency of a decoding algorithm, meaning that the algorithm can yield an infinite-length sequence that has zero probability under the model. We prove that commonly used incomplete decoding algorithms -- greedy search, beam search, top-k sampling, and nucleus sampling -- are inconsistent, despite the fact that recurrent language models are trained to produce sequences of finite length. Based on these insights, we propose two remedies which address inconsistency: consistent variants of top-k and nucleus sampling, and a self-terminating recurrent language model. Empirical results show that inconsistency occurs in practice, and that the proposed methods prevent inconsistency.
 
