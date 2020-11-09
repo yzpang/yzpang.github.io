@@ -1,3 +1,19 @@
+@inproceedings{welleck-etal-2020-consistency,
+    title = "Consistency of a Recurrent Language Model with Respect to Incomplete Decoding",
+    author = "Welleck, Sean  and
+      Kulikov, Ilia  and
+      Kim, Jaedeok  and
+      Pang, Richard Yuanzhe  and
+      Cho, Kyunghyun",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.448",
+    pages = "5553--5568",
+}
+
 @article{welleck2020consistency,
   title={Consistency of a Recurrent Language Model With Respect to Incomplete Decoding},
   author={Welleck, Sean and Kulikov, Ilia and Kim, Jaedeok and Pang, Richard Yuanzhe and Cho, Kyunghyun},
