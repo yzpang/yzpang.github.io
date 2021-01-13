@@ -72,7 +72,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper (to be updated)</a>] [<a href="../misc-files/bibs/pang2020text.txt" style="color: #023DB4; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper (to be updated)</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #023DB4; text-decoration: none">openreview</a>] [<a href="../misc-files/bibs/pang2020text.txt" style="color: #023DB4; text-decoration: none">bibtex</a>]
 
 </p>
 
