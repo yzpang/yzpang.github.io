@@ -63,7 +63,7 @@ p.noindent {
 
 <!-- <font size="3"> -->
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-off-policy-gen" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Off-Policy Demonstrations</a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-off-policy-gen" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Demonstrations</a> <br> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, He He </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ICLR 2021</i> </span>
