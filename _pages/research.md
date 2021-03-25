@@ -72,7 +72,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #023DB4; text-decoration: none">openreview</a>] [<a href="https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #023DB4; text-decoration: none">code</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #023DB4; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #023DB4; text-decoration: none">openreview</a>] [<a href="../misc-files/pang+he-gold-poster.pdf" style="color: #023DB4; text-decoration: none">poster</a>] [<a href="../misc-files/pang+he-gold-5min-slides.pdf" style="color: #023DB4; text-decoration: none">5-min slides</a>] [<a href="https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #023DB4; text-decoration: none">code</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #023DB4; text-decoration: none">bibtex</a>]
 
 
 
