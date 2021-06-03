@@ -57,13 +57,30 @@ p.noindent {
 
 
 
+<br>
+
+<!-- <font size="3"> -->
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-acl21-a" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #22789D; text-decoration: none"> Comparing Test Sets with Item Response Theory</a> <br> </span>
+<span style="line-height:160%"> Clara Vania<sup>*</sup>, Phu Mon Htut<sup>*</sup>, William Huang<sup>*</sup>, Dhara Mungra, Richard Yuanzhe Pang, Jason Phang, Haokun Liu, Kyunghyun Cho, Samuel R. Bowman </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ACL 2021</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Recent years have seen numerous NLP datasets introduced to evaluate the performance of fine-tuned models on natural language understanding tasks. Recent results from large pretrained models, though, show that many of these datasets are largely saturated and unlikely to be able to detect further progress. What kind of datasets are still effective at discriminating among strong models, and what kind of datasets should we expect to be able to detect future improvements? To measure this uniformly across datasets, we draw on Item Response Theory and evaluate 29 datasets using predictions from 18 pretrained Transformer models on individual test examples. We find that Quoref, HellaSwag, and MC-TACO are best suited for distinguishing among state-of-the-art models, while SNLI, MNLI, and CommitmentBank seem to be saturated for current strong models. We also observe span selection task format, which is used for QA datasets like QAMR or SQuAD2.0, is effective in differentiating between strong and weak models.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2106.00840.pdf" style="color: #22789D; text-decoration: none">paper</a>]
+</p>
+
+
 
 
 <br>
 
 <!-- <font size="3"> -->
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-off-policy-gen" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Demonstrations</a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-iclr21" href="https://arxiv.org/abs/2009.07839" style="font-size: 12pt; color: #023DB4; text-decoration: none"> Text Generation by Learning from Demonstrations</a> <br> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, He He </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ICLR 2021</i> </span>
@@ -73,9 +90,6 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #023DB4; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #023DB4; text-decoration: none">openreview</a>] [<a href="../misc-files/pang+he-gold-poster.pdf" style="color: #023DB4; text-decoration: none">poster</a>] [<a href="../misc-files/pang+he-gold-slides.pdf" style="color: #023DB4; text-decoration: none">slides</a>] [<a href="https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #023DB4; text-decoration: none">code</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #023DB4; text-decoration: none">bibtex</a>]
-
-
-
 </p>
 
 
@@ -83,7 +97,7 @@ p.noindent {
 <br>
 
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-spen" href="https://arxiv.org/abs/1911.02891" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Improving Joint Training of Inference Networks and Structured Prediction Energy Networks </a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-spnlp20" href="https://arxiv.org/abs/1911.02891" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Improving Joint Training of Inference Networks and Structured Prediction Energy Networks </a> <br> </span>
 <span style="line-height:160%"> Lifu Tu, Richard Yuanzhe Pang, Kevin Gimpel </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EMNLP 2020 Workshop on Structured Prediction for NLP (SPNLP)</i>; spotlight paper </span>
@@ -92,7 +106,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/1911.02891.pdf" style="color: #0A897D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/tu2019improving.txt" style="color: #0A897D; text-decoration: none">bibtex</a>] 
+[<a href="https://arxiv.org/pdf/1911.02891.pdf" style="color: #0A897D; text-decoration: none">paper</a>] [<a href="../misc-files/pang-spen-infnet-joint-training-slides.pdf" style="color: #0A897D; text-decoration: none">my slides</a>] [<a href="../misc-files/bibs/tu2019improving.txt" style="color: #0A897D; text-decoration: none">bibtex</a>] 
 </p>
 
 
