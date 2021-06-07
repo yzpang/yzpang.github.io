@@ -72,6 +72,7 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2106.02278.pdf" style="color: #023DB4; text-decoration: none">paper</a>] [<a href="https://github.com/google-research-datasets/AgreeSum" style="color: #023DB4; text-decoration: none">data</a>]
+</p>
 
 
 
@@ -90,7 +91,6 @@ p.noindent {
 
 [<a href="https://arxiv.org/pdf/2106.00840.pdf" style="color: #22789D; text-decoration: none">paper</a>]
 </p>
-
 
 
 
