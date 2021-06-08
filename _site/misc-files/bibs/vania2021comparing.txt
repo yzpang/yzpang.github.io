@@ -1,0 +1,6 @@
+@article{vania2021comparing,
+  title={Comparing Test Sets with Item Response Theory},
+  author={Vania, Clara and Htut, Phu Mon and Huang, William and Mungra, Dhara and Pang, Richard Yuanzhe and Phang, Jason and Liu, Haokun and Cho, Kyunghyun and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:2106.00840},
+  year={2021}
+}
