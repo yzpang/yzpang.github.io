@@ -1,0 +1,6 @@
+@article{pang2021agreesum,
+  title={AgreeSum: Agreement-Oriented Multi-Document Summarization},
+  author={Pang, Richard Yuanzhe and Lelkes, Adam D and Tran, Vinh Q and Yu, Cong},
+  journal={arXiv preprint arXiv:2106.02278},
+  year={2021}
+}
