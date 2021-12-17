@@ -1,0 +1,6 @@
+@article{pang2021amortized,
+  title={Amortized Noisy Channel Neural Machine Translation},
+  author={Pang, Richard Yuanzhe and He, He and Cho, Kyunghyun},
+  journal={arXiv preprint arXiv:2112.08670},
+  year={2021}
+}
