@@ -72,7 +72,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2021quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="../misc-files/bibs/pang2021quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
 </p>
 
 
