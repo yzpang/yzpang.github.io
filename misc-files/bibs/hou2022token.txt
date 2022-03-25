@@ -1,0 +1,6 @@
+@article{hou2022token,
+  title={Token Dropping for Efficient BERT Pretraining},
+  author={Hou, Le and Pang, Richard Yuanzhe and Zhou, Tianyi and Wu, Yuexin and Song, Xinying and Song, Xiaodan and Zhou, Denny},
+  journal={arXiv preprint arXiv:2203.13240},
+  year={2022}
+}
