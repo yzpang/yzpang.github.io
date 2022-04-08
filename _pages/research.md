@@ -61,6 +61,25 @@ p.noindent {
 <br>
 
 
+<!-- <font size="3"> -->
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-quality" href="https://arxiv.org/abs/2112.08608" style="font-size: 12pt; color: #22789D; text-decoration: none"> QuALITY: Question Answering with Long Input Texts, Yes!</a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang<sup>*</sup>, Alicia Parrish<sup>*</sup>, Nitish Joshi<sup>*</sup>, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny Ma, Jana Thompson, He He, Samuel R. Bowman </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of NAACL 2022</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> To enable building and testing models on long-document comprehension, we introduce QuALITY, a multiple-choice QA dataset with context passages in English that have an average length of about 5,000 tokens, much longer than typical current models can process. Unlike in prior work with passages, our questions are written and validated by contributors who have read the entire passage, rather than relying on summaries or excerpts. In addition, only half of the questions are answerable by annotators working under tight time constraints, indicating that skimming and simple search are not enough to consistently perform well. Current models perform poorly on this task (55.4%) and significantly lag behind human performance (93.5%).
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="../misc-files/bibs/pang2021quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
+</p>
+
+
+
+<br>
+
+
 
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-acl22" href="https://arxiv.org/abs/2203.13240" style="font-size: 12pt; color: #5c9e82; text-decoration: none">Token Dropping for Efficient BERT Pretraining</a> <br> </span>
@@ -78,27 +97,6 @@ p.noindent {
 
 
 <br>
-
-
-
-<!-- <font size="3"> -->
-<p class="small">
-<span style="font-weight:500"> <a name="exactline-quality" href="https://arxiv.org/abs/2112.08608" style="font-size: 12pt; color: #22789D; text-decoration: none"> QuALITY: Question Answering with Long Input Texts, Yes!</a> <br> </span>
-<span style="line-height:160%"> Richard Yuanzhe Pang<sup>*</sup>, Alicia Parrish<sup>*</sup>, Nitish Joshi<sup>*</sup>, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny Ma, Jana Thompson, He He, Samuel R. Bowman </span>
-<br>
-<span style="line-height:180%; font-size: 10.5pt"> <i>Preprint</i>, December 2021 </span>
-
-<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> To enable building and testing models on long-document comprehension, we introduce QuALITY, a multiple-choice QA dataset with context passages in English that have an average length of about 5,000 tokens, much longer than typical current models can process. Unlike in prior work with passages, our questions are written and validated by contributors who have read the entire passage, rather than relying on summaries or excerpts. In addition, only half of the questions are answerable by annotators working under tight time constraints, indicating that skimming and simple search are not enough to consistently perform well. Current models perform poorly on this task (55.4%) and significantly lag behind human performance (93.5%).
-
-<br><br>
-
-[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="../misc-files/bibs/pang2021quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
-</p>
-
-
-
-<br>
-
 
 
 
