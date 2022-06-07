@@ -2,4 +2,5 @@ ACL: Association for Computational Linguistics
 DeepMath: Conference on the Mathematical Theory of Deep Neural Networks
 EMNLP: Empirical Methods in Natural Language Processing
 ICLR: International Conference on Learning Representations
+INLG: International Natural Language Generation Conference
 NAACL: North American Chapter of the Association for Computational Linguistics
