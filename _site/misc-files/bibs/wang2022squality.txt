@@ -1,0 +1,6 @@
+@article{wang2022squality,
+  title={SQuALITY: Building a Long-Document Summarization Dataset the Hard Way},
+  author={Wang, Alex and Pang, Richard Yuanzhe and Chen, Angelica and Phang, Jason and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:2205.11465},
+  year={2022}
+}
