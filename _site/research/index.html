@@ -311,6 +311,26 @@ p.noindent {
 
 
 <!-- <font size="3"> -->
+
+
+
+
+<p class="small">
+<span style="font-weight:500"> <a href="https://arxiv.org/abs/2112.08670" style="font-size: 12pt; color: #753DA4; text-decoration: none"> Amortized Noisy Channel Neural Machine Translation </a> <br /> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, He He, Kyunghyun Cho </span>
+<br />
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of INLG 2022</i>; best presentation </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Noisy channel models have been especially effective in neural machine translation (NMT). However, recent approaches like "beam search and rerank" (BSR) incur significant computation overhead during inference, making real-world application infeasible. We aim to study if it is possible to build an amortized noisy channel NMT model such that when we do greedy decoding during inference, the translation accuracy matches that of BSR in terms of reward (based on the source-to-target log probability and the target-to-source log probability) and quality (based on BLEU and BLEURT). We attempt three approaches to train the new model: knowledge distillation, one-step-deviation imitation learning, and Q learning. The first approach obtains the noisy channel signal from a pseudo-corpus, and the latter two approaches aim to optimize toward a noisy-channel MT reward directly. For all three approaches, the generated translations fail to achieve rewards comparable to BSR, but the translation quality approximated by BLEU and BLEURT is similar to the quality of BSR-produced translations. Additionally, all three approaches speed up inference by 1–2 orders of magnitude.
+
+<br /><br />
+
+[<a href="https://arxiv.org/pdf/2112.08670.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="https://www.youtube.com/watch?v=EqpNw7JJvI4" style="color: #753DA4; text-decoration: none">talk</a>] [<a href="../misc-files/pang+etal-amortized-poster-inlg2022.pdf" style="color: #753DA4; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2021amortized.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
+</p>
+
+
+
+
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-quality" href="https://arxiv.org/abs/2112.08608" style="font-size: 12pt; color: #22789D; text-decoration: none"> QuALITY: Question Answering with Long Input Texts, Yes!</a> <br /> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang<sup>*</sup>, Alicia Parrish<sup>*</sup>, Nitish Joshi<sup>*</sup>, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny Ma, Jana Thompson, He He, Samuel R. Bowman </span>
@@ -541,7 +561,7 @@ p.noindent {
 
 
 
-</p></p></p></p></p></p></p></p></p></p></p></p></body></html>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></body></html>
 
   </div>
 </div>
