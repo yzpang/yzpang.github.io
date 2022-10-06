@@ -64,10 +64,24 @@ p.noindent {
 <!-- <font size="3"> -->
 
 
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-squality" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> SQuALITY: Building a Long-Document Summarization Dataset the Hard Way </a> <br> </span>
+<span style="line-height:160%"> Alex Wang, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EMNLP 2022</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> Summarization datasets are often assembled either by scraping naturally occurring public-domain summaries -- which are nearly always in difficult-to-work-with technical domains -- or by using approximate heuristics to extract them from everyday text -- which frequently yields unfaithful summaries. In this work, we turn to a slower but more straightforward approach to developing summarization benchmark data: We hire highly-qualified contractors to read stories and write original summaries from scratch. To amortize reading time, we collect five summaries per document, with the first giving an overview and the subsequent four addressing specific questions. We use this protocol to collect SQuALITY, a dataset of question-focused summaries built on the same public-domain short stories as the multiple-choice dataset QuALITY (Pang et al., 2021). Experiments with state-of-the-art summarization systems show that our dataset is challenging and that existing automatic evaluation metrics are weak indicators of quality.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2205.11465.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/SQuALITY" style="color: #245ED2; text-decoration: none">code</a>] [<a href="../misc-files/bibs/wang2022squality.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
 
 
 <p class="small">
-<span style="font-weight:500"> <a href="https://arxiv.org/abs/2112.08670" style="font-size: 12pt; color: #753DA4; text-decoration: none"> Amortized Noisy Channel Neural Machine Translation </a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-amortized-noisy-channel" href="https://arxiv.org/abs/2112.08670" style="font-size: 12pt; color: #753DA4; text-decoration: none"> Amortized Noisy Channel Neural Machine Translation </a> <br> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, He He, Kyunghyun Cho </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of INLG 2022</i>; best presentation </span>
@@ -77,9 +91,9 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2112.08670.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="https://www.youtube.com/watch?v=EqpNw7JJvI4" style="color: #753DA4; text-decoration: none">talk</a>] [<a href="../misc-files/pang+etal-amortized-poster-inlg2022.pdf" style="color: #753DA4; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2021amortized.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
-</p>
 
 
+<br><br>
 
 
 <p class="small">
@@ -92,14 +106,10 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/baselines" style="color: #22789D; text-decoration: none">code</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="https://www.youtube.com/watch?v=WAhSW5iP8iw" style="color: #22789D; text-decoration: none">15-min live talk</a>] [<a href="../misc-files/pang+etal-quality-slides-naacl2022.pdf" style="color: #22789D; text-decoration: none">slides</a>] [<a href="../misc-files/bibs/pang2022quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="https://www.tensorflow.org/datasets/catalog/quality" style="color: #22789D; text-decoration: none">tfds</a>] [<a href="https://www.metaculus.com/questions/9628/question-answering-on-long-texts-by-2025/" style="color: #22789D; text-decoration: none">forecast</a>] [<a href="https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help" style="color: #22789D; text-decoration: none">press</a>] [<a href="https://www.scrolls-benchmark.com/" style="color: #22789D; text-decoration: none">scrolls</a>]
-
-</p>
+[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/baselines" style="color: #22789D; text-decoration: none">code</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="https://www.youtube.com/watch?v=WAhSW5iP8iw" style="color: #22789D; text-decoration: none">15-min live talk</a>] [<a href="../misc-files/pang+etal-quality-slides-naacl2022.pdf" style="color: #22789D; text-decoration: none">slides</a>] [<a href="../misc-files/bibs/pang2022quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="https://www.tensorflow.org/datasets/catalog/quality" style="color: #22789D; text-decoration: none">tfds</a>] [<a href="https://www.metaculus.com/questions/9628/question-answering-on-long-texts-by-2025/" style="color: #22789D; text-decoration: none">forecast</a>] [<a href="https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help" style="color: #22789D; text-decoration: none">press mention by <i>Science</i></a>] [<a href="https://www.scrolls-benchmark.com/" style="color: #22789D; text-decoration: none">scrolls</a>]
 
 
-
-<br>
-
+<br><br>
 
 
 <p class="small">
@@ -112,13 +122,10 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2203.13240.pdf" style="color: #5c9e82; text-decoration: none">paper</a>] [<a href="https://github.com/tensorflow/models/tree/master/official/projects/token_dropping" style="color: #5c9e82; text-decoration: none">code</a>] [<a href="https://drive.google.com/file/d/1-j54SpprZvnDGwLKCacF4xs2o0hYpTlL/view?usp=sharing" style="color: #5c9e82; text-decoration: none">talk</a>] [<a href="../misc-files/bibs/hou2022token.txt" style="color: #5c9e82; text-decoration: none">bibtex</a>] 
-</p>
+[<a href="https://arxiv.org/pdf/2203.13240.pdf" style="color: #5c9e82; text-decoration: none">paper</a>] [<a href="https://github.com/tensorflow/models/tree/master/official/projects/token_dropping" style="color: #5c9e82; text-decoration: none">code</a>] [<a href="https://drive.google.com/file/d/1-j54SpprZvnDGwLKCacF4xs2o0hYpTlL/view?usp=sharing" style="color: #5c9e82; text-decoration: none">talk</a>] [<a href="../misc-files/links/token-dropping-articles.html" style="color: #5c9e82; text-decoration: none">press</a>] [<a href="../misc-files/bibs/hou2022token.txt" style="color: #5c9e82; text-decoration: none">bibtex</a>] 
 
 
-
-<br>
-
+<br><br>
 
 
 <!-- <font size="3"> -->
@@ -133,11 +140,10 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2106.02278.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://github.com/google-research-datasets/AgreeSum" style="color: #245ED2; text-decoration: none">data</a>] [<a href="https://drive.google.com/file/d/1EYE3WLxqFpBHeSPU7zQ4gPZsxOE4wj5G/view?usp=sharing" style="color: #245ED2; text-decoration: none">short video</a>] [<a href="../misc-files/bibs/pang2021agreesum.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
-</p>
 
 
+<br><br>
 
-<br>
 
 <!-- <font size="3"> -->
 <p class="small">
@@ -151,11 +157,10 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2106.00840.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/nlu-test-sets" style="color: #22789D; text-decoration: none">code</a>] [<a href="../misc-files/bibs/vania2021comparing.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
-</p>
 
 
+<br><br>
 
-<br>
 
 <!-- <font size="3"> -->
 <p class="small">
@@ -168,12 +173,12 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #245ED2; text-decoration: none">openreview</a>] [<a href="../misc-files/pang+he-gold-poster.pdf" style="color: #245ED2; text-decoration: none">poster</a>] [<a href="https://slideslive.com/38953568/text-generation-by-learning-from-demonstrations" style="color: #245ED2; text-decoration: none">short video</a>] [<a href="https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2; text-decoration: none">code</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2009.07839.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #245ED2; text-decoration: none">openreview</a>] [<a href="../misc-files/pang+he-gold-poster.pdf" style="color: #245ED2; text-decoration: none">poster</a>] [<a href="https://slideslive.com/38953568/text-generation-by-learning-from-demonstrations" style="color: #245ED2; text-decoration: none">short video</a>] [<a href="https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2; text-decoration: none">code</a>] [<a href="https://iclr-blog-track.github.io/2022/03/25/text-gen-via-lfd/" style="color: #245ED2; text-decoration: none">ICLR blog by other authors</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
 </p>
 
 
+<br><br>
 
-<br>
 
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-spnlp20" href="https://arxiv.org/abs/1911.02891" style="font-size: 12pt; color: #0A897D; text-decoration: none"> Improving Joint Training of Inference Networks and Structured Prediction Energy Networks </a> <br> </span>
@@ -186,13 +191,10 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/1911.02891.pdf" style="color: #0A897D; text-decoration: none">paper</a>] [<a href="../misc-files/pang-spen-infnet-joint-training-slides.pdf" style="color: #0A897D; text-decoration: none">my slides</a>] [<a href="../misc-files/bibs/tu2019improving.txt" style="color: #0A897D; text-decoration: none">bibtex</a>] 
-</p>
 
 
+<br><br>
 
-
-
-<br>
 
 <!-- <font size="3"> -->
 <p class="small">
@@ -206,13 +208,9 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2002.02492.pdf" style="color: #0A897D; text-decoration: none">paper</a>] [<a href="https://github.com/uralik/consistency-lm" style="color: #0A897D; text-decoration: none">code</a>] [<a href="../misc-files/bibs/welleck2020consistency.txt" style="color: #0A897D; text-decoration: none">bibtex</a>]
-</p>
 
 
-
-
-
-<br>
+<br><br>
 
 
 <p class="small">
@@ -226,14 +224,9 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2005.00850.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="https://github.com/lifu-tu/ENGINE" style="color: #753DA4; text-decoration: none">code</a>] [<a href="../misc-files/bibs/tu2020engine.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
-</p>
 
 
-
-
-
-
-<br>
+<br><br>
 
 
 <p class="small">
@@ -247,16 +240,10 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2005.00628.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pruksachatkun2020intermediate.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
-</p>
 
 
+<br><br>
 
-
-
-
-
-
-<br>
 
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-wngt19-a" href="https://arxiv.org/abs/1810.11878" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer </a> <br> </span>
@@ -269,17 +256,10 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/1810.11878.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://arxiv.org/pdf/1810.11878.pdf#page=11" style="color: #245ED2; text-decoration: none">supplementals</a>] [<a href="../misc-files/pang+gimpel-textual-transfer-poster.pdf" style="color: #245ED2; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2018unsupervised.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
-</p>
 
 
+<br><br>
 
-
-
-
-
-
-
-<br>
 
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-wngt19-b" href="https://arxiv.org/abs/1910.03747" style="font-size: 12pt; color: #245ED2; text-decoration: none"> The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation </a> <br> </span>
@@ -296,13 +276,6 @@ p.noindent {
 
 
 
-
-
-<br><br>
-
-
-
-<p>
 
 
 
