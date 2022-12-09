@@ -1,0 +1,6 @@
+@article{pang2022reward,
+  title={Reward Gaming in Conditional Text Generation},
+  author={Pang, Richard Yuanzhe and Padmakumar, Vishakh and Sellam, Thibault and Parikh, Ankur P and He, He},
+  journal={arXiv preprint arXiv:2211.08714},
+  year={2022}
+}
