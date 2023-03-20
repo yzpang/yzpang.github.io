@@ -1,0 +1,6 @@
+@article{padmakumar2023extrapolative,
+  title={Extrapolative Controlled Sequence Generation via Iterative Refinement},
+  author={Padmakumar, Vishakh and Pang, Richard Yuanzhe and He, He and Parikh, Ankur P},
+  journal={arXiv preprint arXiv:2303.04562},
+  year={2023}
+}
