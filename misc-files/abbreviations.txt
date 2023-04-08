@@ -2,5 +2,12 @@ ACL: Association for Computational Linguistics
 DeepMath: Conference on the Mathematical Theory of Deep Neural Networks
 EMNLP: Empirical Methods in Natural Language Processing
 ICLR: International Conference on Learning Representations
+ICML: International Conference on Machine Learning
 INLG: International Natural Language Generation Conference
 NAACL: North American Chapter of the Association for Computational Linguistics
+
+
+The above venues are top venues in ML and NLP. 
+See:
+(1) https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
+(2) https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics
