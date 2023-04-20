@@ -102,7 +102,7 @@ analytics:
 author:
   name             : ""
   avatar           : "./_pages/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "New York University"
+  bio              : ""
   # location         : ""
   # location2         : ""
   # location3         : ""

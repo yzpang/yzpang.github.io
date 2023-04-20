@@ -11,13 +11,6 @@
         {% assign author_src = author.avatar | relative_url %}
       {% endif %}
 
-      {% assign randomNumber = "now" | date: "%S" | modulo: 60 | plus: 0 %}
-      {% if randomNumber > 30 %}
-        {% assign author_src = './_pages/images/me_old.jpg' %}
-      {% else %}
-        {% assign author_src = './_pages/images/me.jpg' %}
-      {% endif %}
-
       {% if author.home %}
         {% if author.home contains "://" %}
           {% assign author_link = author.home %}
