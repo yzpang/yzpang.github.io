@@ -65,7 +65,7 @@ p.noindent {
 
 
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-ice" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Extrapolative Controlled Sequence Generation via Iterative Refinement </a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-ice" href="https://arxiv.org/abs/2303.04562" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Extrapolative Controlled Sequence Generation via Iterative Refinement </a> <br> </span>
 <span style="line-height:160%"> Vishakh Padmakumar, Richard Yuanzhe Pang, He He, Ankur P. Parikh </span>
 <br>
 <span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ICML 2023</i> </span>
