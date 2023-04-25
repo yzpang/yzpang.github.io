@@ -65,6 +65,22 @@ p.noindent {
 
 
 <p class="small">
+<span style="font-weight:500"> <a name="exactline-ice" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Extrapolative Controlled Sequence Generation via Iterative Refinement </a> <br> </span>
+<span style="line-height:160%"> Vishakh Padmakumar, Richard Yuanzhe Pang, He He, Ankur P. Parikh </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ICML 2023</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> We study the problem of extrapolative controlled generation, i.e., generating sequences with attribute values beyond the range seen in training. This task is of significant importance in automated design, especially drug discovery, where the goal is to design novel proteins that are better (e.g., more stable) than existing sequences. Thus, by definition, the target sequences and their attribute values are out of the training distribution, posing challenges to existing methods that aim to directly generate the target sequence. Instead, in this work, we propose Iterative Controlled Extrapolation (ICE) which iteratively makes local edits to a sequence to enable extrapolation. We train the model on synthetically generated sequence pairs that demonstrate small improvement in the attribute value. Results on one natural language task (sentiment analysis) and two protein engineering tasks (ACE2 stability and AAV fitness) show that ICE considerably outperforms state-of-the-art approaches despite its simplicity. 
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2303.04562.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/padmakumar2023extrapolative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
+<p class="small">
 <span style="font-weight:500"> <a name="exactline-squality" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> SQuALITY: Building a Long-Document Summarization Dataset the Hard Way </a> <br> </span>
 <span style="line-height:160%"> Alex Wang, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman </span>
 <br>

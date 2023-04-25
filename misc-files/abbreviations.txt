@@ -5,9 +5,13 @@ ICLR: International Conference on Learning Representations
 ICML: International Conference on Machine Learning
 INLG: International Natural Language Generation Conference
 NAACL: North American Chapter of the Association for Computational Linguistics
+NeurIPS: Neural Information Processing Systems
 
 
-The above contains top venues in ML and NLP. 
-See:
+The above contains top venues in machine learning and natural language processing. 
+As of 2023, using an arbitrary metric: 
+- Top three venues in the ML community: ICLR, NeurIPS, ICML. 
+- Top three venues in the NLP community: ACL, EMNLP, NAACL. 
+See: 
 (1) https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
 (2) https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics
