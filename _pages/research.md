@@ -81,6 +81,38 @@ p.noindent {
 
 
 <p class="small">
+<span style="font-weight:500"> <a name="exactline-gaming" href="https://arxiv.org/abs/2211.08714" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Reward Gaming in Conditional Text Generation </a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, Vishakh Padmakumar, Thibault Sellam, Ankur P. Parikh, He He </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ACL 2023</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> To align conditional text generation model outputs with desired behaviors, there has been an increasing focus on training the model using reinforcement learning (RL) with reward functions learned from human annotations. Under this framework, we identify three common cases where high rewards are incorrectly assigned to undesirable patterns: noise-induced spurious correlation, naturally occurring spurious correlation, and covariate shift. We show that even though learned metrics achieve high performance on the distribution of the data used to train the reward function, the undesirable patterns may be amplified during RL training of the text generation model. While there has been discussion about reward gaming in the RL or safety community, in this discussion piece, we would like to highlight reward gaming in the natural language generation (NLG) community using concrete conditional text generation examples and discuss potential fixes and areas for future work.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2211.08714.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2022reward.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-survey" href="https://arxiv.org/abs/2208.12852" style="font-size: 12pt; color: #245ED2; text-decoration: none"> What Do NLP Researchers Believe? Results of the NLP Community Metasurvey </a> <br> </span>
+<span style="line-height:160%"> Julian Michael, Ari Holtzman, Alicia Parrish, Aaron Mueller, Alex Wang, Angelica Chen, Divyam Madaan, Nikita Nangia, Richard Yuanzhe Pang, Jason Phang, Samuel R. Bowman </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of ACL 2023</i> </span>
+
+<p style="font-size:10pt; margin-left: 30px"> <b> Abstract:</b> We present the results of the NLP Community Metasurvey. Run from May to June 2022, the survey elicited opinions on controversial issues, including industry influence in the field, concerns about AGI, and ethics. Our results put concrete numbers to several controversies: For example, respondents are split almost exactly in half on questions about the importance of artificial general intelligence, whether language models understand language, and the necessity of linguistic structure and inductive bias for solving NLP problems. In addition, the survey posed meta-questions, asking respondents to predict the distribution of survey responses. This allows us not only to gain insight on the spectrum of beliefs held by NLP researchers, but also to uncover false sociological beliefs where the community's predictions don't match reality. We find such mismatches on a wide range of issues. Among other results, the community greatly overestimates its own belief in the usefulness of benchmarks and the potential for scaling to solve real-world problems, while underestimating its own belief in the importance of linguistic structure, inductive bias, and interdisciplinary science.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2208.12852.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://nlpsurvey.net/" style="color: #757575; text-decoration: none">website</a>] [<a href="../misc-files/links/survey-articles.html" style="color: #757575; text-decoration: none">press</a>] [<a href="../misc-files/bibs/michael2022nlp.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
+<p class="small">
 <span style="font-weight:500"> <a name="exactline-squality" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> SQuALITY: Building a Long-Document Summarization Dataset the Hard Way </a> <br> </span>
 <span style="line-height:160%"> Alex Wang, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman </span>
 <br>
