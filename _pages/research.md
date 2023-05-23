@@ -63,7 +63,7 @@ p.noindent {
 
 <!-- <font size="3"> -->
 
-<p class="medium">
+<p class="small">
 <span style="line-height:170%"> 
 <i>Primary</i> research subfields: <a style="color: #245ED2; text-decoration: none">text generation</a> (including <a style="color: #753DA4; text-decoration: none">machine translation</a>), <a style="color: #0A897D; text-decoration: none">structured prediction</a>, <a style="color: #22789D; text-decoration: none">language understanding</a>, <a style="color: #5c9e82; text-decoration: none">pretraining</a>, and <a style="color: #757575; text-decoration: none">others</a>. 
 
@@ -71,6 +71,8 @@ p.noindent {
 
 [<a href="https://www.semanticscholar.org/author/Richard-Yuanzhe-Pang/46230016" style="color: #4C8BF5; text-decoration: none" target="_blank">semantic scholar</a>] [<a href="https://scholar.google.com/citations?hl=en&user=vg_IkckAAAAJ" style="color: #4C8BF5; text-decoration: none" target="_blank">google scholar</a>] [<a href="https://dblp.org/pid/250/9059.html" style="color: #4C8BF5; text-decoration: none" target="_blank">dblp</a>] [<a href="../misc-files/abbreviations.txt" style="color: #4C8BF5; text-decoration: none" target="_blank">abbreviations</a>]
 </span>
+
+<br><br>
 
 
 <p class="small">
