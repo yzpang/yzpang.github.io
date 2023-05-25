@@ -1,0 +1,6 @@
+@article{saparov2023testing,
+  title={Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples},
+  author={Saparov, Abulhair and Pang, Richard Yuanzhe and Padmakumar, Vishakh and Joshi, Nitish and Kazemi, Seyed Mehran and Kim, Najoung and He, He},
+  journal={arXiv preprint arXiv:2305.15269},
+  year={2023}
+}
