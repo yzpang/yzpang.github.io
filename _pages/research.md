@@ -79,6 +79,23 @@ p.noindent {
 <span style="line-height:170%"> <u> Publications and preprints (2023-) </u> </span>
 
 
+
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-dialogue-implicit-feedback" href="https://arxiv.org/abs/2307.14117" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Leveraging Implicit Feedback from Deployment Data in Dialogue </a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, Stephen Roller, Kyunghyun Cho, He He, Jason Weston </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> <i>Preprint</i>, July 2023 </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We study improving social conversational agents by learning from natural dialogue between users and a deployed model, without extra annotations. To implicitly measure the quality of a machine-generated utterance, we leverage signals like user response length, sentiment and reaction of the future human utterances in the collected dialogue episodes. Our experiments use the publicly released deployment data from BlenderBot (Xu et al., 2023). Human evaluation indicates improvements in our new models over baseline responses; however, we find that some proxy signals can lead to more generations with undesirable properties as well. For example, optimizing for conversation length can lead to more controversial or unfriendly generations compared to the baseline, whereas optimizing for positive sentiment or reaction can decrease these behaviors. 
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2307.14117.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2023leveraging.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-reasoning" href="https://arxiv.org/abs/2305.15269" style="font-size: 12pt; color: #439371; text-decoration: none"> Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples </a> <br> </span>
 <span style="line-height:160%"> Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Seyed Mehran Kazemi, Najoung Kim*, He He* </span>
@@ -89,7 +106,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2305.15269.pdf" style="color: #439371; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/saparov2023testing.txt" style="color: #439371; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2305.15269.pdf" style="color: #439371; text-decoration: none">paper</a>] [<a href="../misc-files/pang-reasoning-poster-icml-klr-workshop-2023.pdf" style="color: #439371; text-decoration: none">poster at <i>ICML 2023 Knowledge and Logical Reasoning Workshop</i></a>] [<a href="../misc-files/bibs/saparov2023testing.txt" style="color: #439371; text-decoration: none">bibtex</a>]
 
 
 <p class="small">
@@ -118,7 +135,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2211.08714.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2022reward.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2211.08714.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/pang-reward-gaming-slides-acl2023.pdf" style="color: #245ED2; text-decoration: none">slides</a>] [<a href="../misc-files/bibs/pang2022reward.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
 
 
 <br><br>
@@ -169,7 +186,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2112.08670.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="https://www.youtube.com/watch?v=EqpNw7JJvI4" style="color: #753DA4; text-decoration: none">talk</a>] [<a href="../misc-files/pang+etal-amortized-poster-inlg2022.pdf" style="color: #753DA4; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2021amortized.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2112.08670.pdf" style="color: #753DA4; text-decoration: none">paper</a>] [<a href="https://www.youtube.com/watch?v=EqpNw7JJvI4" style="color: #753DA4; text-decoration: none">talk</a>] [<a href="../misc-files/pang-amortized-poster-inlg2022.pdf" style="color: #753DA4; text-decoration: none">poster</a>] [<a href="../misc-files/bibs/pang2021amortized.txt" style="color: #753DA4; text-decoration: none">bibtex</a>]
 
 
 <br><br>
@@ -185,7 +202,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/baselines" style="color: #22789D; text-decoration: none">code</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="https://www.youtube.com/watch?v=WAhSW5iP8iw" style="color: #22789D; text-decoration: none">15-min live talk</a>] [<a href="../misc-files/pang+etal-quality-slides-naacl2022.pdf" style="color: #22789D; text-decoration: none">slides</a>] [<a href="../misc-files/bibs/pang2022quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="https://www.tensorflow.org/datasets/catalog/quality" style="color: #22789D; text-decoration: none">tfds</a>] [<a href="https://www.metaculus.com/questions/9628/question-answering-on-long-texts-by-2025/" style="color: #22789D; text-decoration: none">forecast</a>] [<a href="https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help" style="color: #22789D; text-decoration: none">press mention by <i>Science</i></a>] [<a href="https://www.scrolls-benchmark.com/" style="color: #22789D; text-decoration: none">scrolls</a>] [<a href="https://www.zero.scrolls-benchmark.com" style="color: #22789D; text-decoration: none">zeroscrolls</a>]
+[<a href="https://arxiv.org/pdf/2112.08608.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/data" style="color: #22789D; text-decoration: none">data</a>] [<a href="https://github.com/nyu-mll/quality/tree/main/baselines" style="color: #22789D; text-decoration: none">code</a>] [<a href="https://nyu-mll.github.io/quality/" style="color: #22789D; text-decoration: none">leaderboard</a>] [<a href="https://www.youtube.com/watch?v=WAhSW5iP8iw" style="color: #22789D; text-decoration: none">15-min live talk</a>] [<a href="../misc-files/pang-quality-slides-naacl2022.pdf" style="color: #22789D; text-decoration: none">slides</a>] [<a href="../misc-files/bibs/pang2022quality.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="https://www.tensorflow.org/datasets/catalog/quality" style="color: #22789D; text-decoration: none">tfds</a>] [<a href="https://www.metaculus.com/questions/9628/question-answering-on-long-texts-by-2025/" style="color: #22789D; text-decoration: none">forecast</a>] [<a href="https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help" style="color: #22789D; text-decoration: none">press mention by <i>Science</i></a>] [<a href="https://www.scrolls-benchmark.com/" style="color: #22789D; text-decoration: none">scrolls</a>] [<a href="https://www.zero.scrolls-benchmark.com" style="color: #22789D; text-decoration: none">zeroscrolls</a>]
 
 
 <br><br>
