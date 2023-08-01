@@ -1,0 +1,22 @@
+@inproceedings{pang-etal-2022-amortized,
+    title = "Amortized Noisy Channel Neural Machine Translation",
+    author = "Pang, Richard Yuanzhe  and
+      He, He  and
+      Cho, Kyunghyun",
+    booktitle = "Proceedings of the 15th International Conference on Natural Language Generation",
+    month = jul,
+    year = "2022",
+    address = "Waterville, Maine, USA and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.inlg-main.11",
+    pages = "131--143",
+    abstract = "",
+}
+
+
+@article{pang2021amortized,
+  title={Amortized Noisy Channel Neural Machine Translation},
+  author={Pang, Richard Yuanzhe and He, He and Cho, Kyunghyun},
+  journal={arXiv preprint arXiv:2112.08670},
+  year={2021}
+}

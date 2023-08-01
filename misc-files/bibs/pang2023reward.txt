@@ -1,11 +1,3 @@
-@article{pang2022reward,
-  title={Reward Gaming in Conditional Text Generation},
-  author={Pang, Richard Yuanzhe and Padmakumar, Vishakh and Sellam, Thibault and Parikh, Ankur P and He, He},
-  journal={arXiv preprint arXiv:2211.08714},
-  year={2022}
-}
-
-
 @inproceedings{pang-etal-2023-reward,
     title = "Reward Gaming in Conditional Text Generation",
     author = "Pang, Richard Yuanzhe  and
@@ -21,4 +13,12 @@
     url = "https://aclanthology.org/2023.acl-long.262",
     pages = "4746--4763",
     abstract = "To align conditional text generation model outputs with desired behaviors, there has been an increasing focus on training the model using reinforcement learning (RL) with reward functions learned from human annotations. Under this framework, we identify three common cases where high rewards are incorrectly assigned to undesirable patterns: noise-induced spurious correlation, naturally occurring spurious correlation, and covariate shift. We show that even though learned metrics achieve high performance on the distribution of the data used to train the reward function, the undesirable patterns may be amplified during RL training of the text generation model. While there has been discussion about reward gaming in the RL or safety community, in this discussion piece, we would like to highlight reward gaming in the natural language generation (NLG) community using concrete conditional text generation examples and discuss potential fixes and areas for future work.",
+}
+
+
+@article{pang2022reward,
+  title={Reward Gaming in Conditional Text Generation},
+  author={Pang, Richard Yuanzhe and Padmakumar, Vishakh and Sellam, Thibault and Parikh, Ankur P and He, He},
+  journal={arXiv preprint arXiv:2211.08714},
+  year={2022}
 }
