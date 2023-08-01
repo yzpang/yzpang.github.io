@@ -4,3 +4,20 @@
   journal={arXiv preprint arXiv:2303.04562},
   year={2023}
 }
+
+
+@InProceedings{pmlr-v202-padmakumar23a,
+  title =    {Extrapolative Controlled Sequence Generation via Iterative Refinement},
+  author =       {Padmakumar, Vishakh and Pang, Richard Yuanzhe and He, He and Parikh, Ankur P},
+  booktitle =    {Proceedings of the 40th International Conference on Machine Learning},
+  pages =    {26792--26808},
+  year =   {2023},
+  editor =   {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume =   {202},
+  series =   {Proceedings of Machine Learning Research},
+  month =    {23--29 Jul},
+  publisher =    {PMLR},
+  pdf =    {https://proceedings.mlr.press/v202/padmakumar23a/padmakumar23a.pdf},
+  url =    {https://proceedings.mlr.press/v202/padmakumar23a.html},
+  abstract =   {We study the problem of extrapolative controlled generation, i.e., generating sequences with attribute values beyond the range seen in training. This task is of significant importance in automated design, especially drug discovery, where the goal is to design novel proteins that are better (e.g., more stable) than existing sequences. Thus, by definition the target sequences and their attribute values are out of the training distribution, posing challenges to existing methods that aim to directly generate the target sequence. Instead, in this work, we propose Iterative Controlled Extrapolation (ICE) which iteratively makes local edits to a sequence to enable extrapolation. We train the model on synthetically generated sequence pairs that demonstrate small improvement in the attribute value. Results on one natural language task (sentiment analysis) and two protein engineering tasks (ACE2 stability and AAV fitness) show that ICE outperforms state-of-the-art approaches despite its simplicity.}
+}

@@ -1,6 +1,0 @@
-@article{michael2022nlp,
-  title={What Do NLP Researchers Believe? Results of the NLP Community Metasurvey},
-  author={Michael, Julian and Holtzman, Ari and Parrish, Alicia and Mueller, Aaron and Wang, Alex and Chen, Angelica and Madaan, Divyam and Nangia, Nikita and Pang, Richard Yuanzhe and Phang, Jason and others},
-  journal={arXiv preprint arXiv:2208.12852},
-  year={2022}
-}
