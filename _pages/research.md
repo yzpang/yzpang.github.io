@@ -158,7 +158,7 @@ p.noindent {
 
 
 <p class="small">
-<span style="line-height:170%"> <u> Publications (2021-2022)</u> — main focus: text generation (learning from rewards, RL), long-document understanding (question answering, summarization) </span>
+<span style="line-height:170%"> <u> Publications (2021-2022)</u> — <b>main focus</b>: text generation (learning from rewards, RL), long-document understanding (question answering, summarization) </span>
 
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-emnlp22" href="https://arxiv.org/abs/2205.11465" style="font-size: 12pt; color: #245ED2; text-decoration: none"> SQuALITY: Building a Long-Document Summarization Dataset the Hard Way </a> <br> </span>
@@ -277,7 +277,7 @@ https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2
 
 
 <p class="small">
-<span style="line-height:170%"> <u> Publications (2019-2020)</u> — main focus: text generation (textual style transfer, non-autoregressive translation, decoding), energy-based network in NLP </span>
+<span style="line-height:170%"> <u> Publications (2019-2020)</u> — <b>main focus</b>: text generation (textual style transfer, non-autoregressive translation, decoding), energy-based network in NLP </span>
 
 
 <p class="small">
