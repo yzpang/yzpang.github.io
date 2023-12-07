@@ -72,12 +72,43 @@ p.noindent {
 [<a href="https://scholar.google.com/citations?hl=en&user=vg_IkckAAAAJ" style="color: #4C8BF5; text-decoration: none" target="_blank">google scholar</a>] [<a href="https://www.semanticscholar.org/author/Richard-Yuanzhe-Pang/46230016" style="color: #4C8BF5; text-decoration: none" target="_blank">semantic scholar</a>] [<a href="https://dblp.org/pid/250/9059.html" style="color: #4C8BF5; text-decoration: none" target="_blank">dblp</a>] [<a href="../misc-files/abbreviations.txt" style="color: #4C8BF5; text-decoration: none" target="_blank">abbreviations</a>]
 </span>
 
+
 <br><br>
+
+
+
+<p class="small">
+<span style="line-height:170%"> <u> Overview of selected research directions </u> </span>
+
+
+<ul class="small" style="font-size: 11.5pt">
+<li> <b>Learning from rewards in text generation</b>: <a href="https://arxiv.org/abs/2009.07839" style="color: #245ED2; text-decoration: none">GOLD</a> (offline RL), <a href="https://arxiv.org/abs/2112.08670" style="color: #245ED2; text-decoration: none">amortized noisy channel NMT</a> (off-policy RL & knowledge distillation), <a href="https://arxiv.org/abs/2211.08714" style="color: #245ED2; text-decoration: none">reward gaming</a> (on-policy RL), <a href="https://arxiv.org/abs/2106.02278" style="color: #245ED2; text-decoration: none">AgreeSum</a> (on-policy RL for multi-doc summarization), <a href="https://arxiv.org/abs/2005.00850" style="color: #245ED2; text-decoration: none">ENGINE for non-autoregressive NMT</a> ("soft" knowledge distillation), <a href="https://arxiv.org/abs/2307.14117" style="color: #245ED2; text-decoration: none">implicit feedback in dialogue</a> (extracting implicit reward in deployment data), <a href="https://arxiv.org/abs/2303.04562" style="color: #245ED2; text-decoration: none">ICE generation</a> (extrapolating to unseen attribute values) </li>
+
+<li> <b>Reasoning</b>: <a href="https://arxiv.org/abs/2305.15269" style="color: #439371; text-decoration: none">PrOntoQA-OOD</a> (deductive reasoning); this direction is my current main focus </li>
+
+<li> <b>Scalable oversight benchmarks</b>: <a href="https://arxiv.org/abs/2112.08608" style="color: #22789D; text-decoration: none">QuALITY</a> (long-document QA; related: <a href="https://arxiv.org/abs/2205.11465" style="color: #245ED2; text-decoration: none">SQuALITY</a> which is the summarization form), <a href="https://arxiv.org/abs/2311.12022" style="color: #22789D; text-decoration: none"> GPQA</a> (graduate-level Google-proof QA) </li>
+
+</ul>
+</p>
 
 
 <p class="small">
 <span style="line-height:170%"> <u> Publications and preprints (2023-) </u> </span>
 
+
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-gpqa" href="https://arxiv.org/abs/2311.12022" style="font-size: 12pt; color: #22789D; text-decoration: none"> GPQA: A Graduate-Level Google-Proof Q&A Benchmark </a> <br> </span>
+<span style="line-height:160%"> David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> <i>Preprint</i>, November 2023 </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are "Google-proof"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to use future AI systems to help us answer very hard questions, for example, when developing new scientific knowledge, we need to develop scalable oversight methods that enable humans to supervise their outputs, which may be difficult even if the supervisors are themselves skilled and knowledgeable. The difficulty of GPQA both for skilled non-experts and frontier AI systems should enable realistic scalable oversight experiments, which we hope can help devise ways for human experts to reliably get truthful information from AI systems that surpass human capabilities. 
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2311.12022.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/rein2023gpqa.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
+
+
+<br><br>
 
 
 <p class="small">
@@ -270,7 +301,7 @@ p.noindent {
 <br><br>
 
 [<a href="../misc-files/pang+he-gold-paper.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://openreview.net/forum?id=RovX-uQ1Hua" style="color: #245ED2; text-decoration: none">openreview</a>] [<a href="../misc-files/pang+he-gold-poster.pdf" style="color: #245ED2; text-decoration: none">poster</a>] [<a href="../misc-files/pang+he-gold-slides.pdf" style="color: #245ED2; text-decoration: none">slides</a>] [<a href="
-https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2; text-decoration: none">code</a>] [<a href="../misc-files/pang-gold-discussion-2022-06.pdf" style="color: #245ED2; text-decoration: none">discussion</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="https://iclr-blog-track.github.io/2022/03/25/text-gen-via-lfd/" style="color: #245ED2; text-decoration: none">ICLR blog by other authors</a>] [<a href="https://www.science.org/stoken/author-tokens/ST-905/full" style="color: #245ED2; text-decoration: none">GOLD in AlphaCode, <i>Science</i></a>]
+https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2; text-decoration: none">code</a>] [<a href="../misc-files/pang-gold-discussion-2022-06.pdf" style="color: #245ED2; text-decoration: none">discussion</a>] [<a href="../misc-files/bibs/pang2021text.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="https://iclr-blog-track.github.io/2022/03/25/text-gen-via-lfd/" style="color: #245ED2; text-decoration: none">ICLR blog by other authors</a>] [<a href="https://www.science.org/stoken/author-tokens/ST-905/full" style="color: #245ED2; text-decoration: none">GOLD in AlphaCode, <i>Science</i></a>] [<a href="https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf" style="color: #245ED2; text-decoration: none">GOLD as the main learning objective in AlphaCode 2, Dec 2023</a>]
 
 
 <br><br>
