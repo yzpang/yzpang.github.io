@@ -1,12 +1,19 @@
-ACL: Association for Computational Linguistics
-DeepMath: Conference on the Mathematical Theory of Deep Neural Networks
-EMNLP: Empirical Methods in Natural Language Processing
-ICLR: International Conference on Learning Representations
-ICML: International Conference on Machine Learning
-INLG: International Natural Language Generation Conference
-NAACL: North American Chapter of the Association for Computational Linguistics
-NeurIPS: Neural Information Processing Systems
+**Abbreviations**
 
+Major NLP venues
+- ACL: Association for Computational Linguistics
+- EACL: European Chapter of the Association for Computational Linguistics
+- EMNLP: Empirical Methods in Natural Language Processing
+- INLG: International Natural Language Generation Conference
+- NAACL: North American Chapter of the Association for Computational Linguistics
+
+Major ML venues
+- ICLR: International Conference on Learning Representations
+- ICML: International Conference on Machine Learning
+- NeurIPS: Neural Information Processing Systems
+
+Others
+- DeepMath: Conference on the Mathematical Theory of Deep Neural Networks
 
 The above contains top venues in machine learning and natural language processing. 
 As of 2023, using an arbitrary metric: 

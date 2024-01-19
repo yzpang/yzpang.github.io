@@ -97,6 +97,22 @@ p.noindent {
 
 
 <p class="small">
+<span style="font-weight:500"> <a name="exactline-dialogue-implicit-feedback" href="https://arxiv.org/abs/2307.14117" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Leveraging Implicit Feedback from Deployment Data in Dialogue </a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, Stephen Roller, Kyunghyun Cho, He He, Jason Weston </span>
+<br>
+<span style="line-height:180%; font-size: 10.5pt"> In <i>Proceedings of EACL 2024</i> </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We study improving social conversational agents by learning from natural dialogue between users and a deployed model, without extra annotations. To implicitly measure the quality of a machine-generated utterance, we leverage signals like user response length, sentiment and reaction of the future human utterances in the collected dialogue episodes. Our experiments use the publicly released deployment data from BlenderBot (Xu et al., 2023). Human evaluation indicates improvements in our new models over baseline responses; however, we find that some proxy signals can lead to more generations with undesirable properties as well. For example, optimizing for conversation length can lead to more controversial or unfriendly generations compared to the baseline, whereas optimizing for positive sentiment or reaction can decrease these behaviors. 
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2307.14117.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2023leveraging.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
+<p class="small">
 <span style="font-weight:500"> <a name="exactline-gpqa" href="https://arxiv.org/abs/2311.12022" style="font-size: 12pt; color: #22789D; text-decoration: none"> GPQA: A Graduate-Level Google-Proof Q&A Benchmark </a> <br> </span>
 <span style="line-height:160%"> David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman </span>
 <br>
@@ -106,22 +122,6 @@ p.noindent {
 <br><br>
 
 [<a href="https://arxiv.org/pdf/2311.12022.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/idavidrein/gpqa" style="color: #22789D; text-decoration: none">data & code</a>] [<a href="../misc-files/bibs/rein2023gpqa.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
-
-
-<br><br>
-
-
-<p class="small">
-<span style="font-weight:500"> <a name="exactline-dialogue-implicit-feedback" href="https://arxiv.org/abs/2307.14117" style="font-size: 12pt; color: #245ED2; text-decoration: none"> Leveraging Implicit Feedback from Deployment Data in Dialogue </a> <br> </span>
-<span style="line-height:160%"> Richard Yuanzhe Pang, Stephen Roller, Kyunghyun Cho, He He, Jason Weston </span>
-<br>
-<span style="line-height:180%; font-size: 10.5pt"> <i>Preprint</i>, July 2023 </span>
-
-<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We study improving social conversational agents by learning from natural dialogue between users and a deployed model, without extra annotations. To implicitly measure the quality of a machine-generated utterance, we leverage signals like user response length, sentiment and reaction of the future human utterances in the collected dialogue episodes. Our experiments use the publicly released deployment data from BlenderBot (Xu et al., 2023). Human evaluation indicates improvements in our new models over baseline responses; however, we find that some proxy signals can lead to more generations with undesirable properties as well. For example, optimizing for conversation length can lead to more controversial or unfriendly generations compared to the baseline, whereas optimizing for positive sentiment or reaction can decrease these behaviors. 
-
-<br><br>
-
-[<a href="https://arxiv.org/pdf/2307.14117.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2023leveraging.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
 
 
 <br><br>

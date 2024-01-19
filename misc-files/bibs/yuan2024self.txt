@@ -1,0 +1,6 @@
+@article{yuan2024self,
+  title={Self-Rewarding Language Models},
+  author={Yuan, Weizhe and Pang, Richard Yuanzhe and Cho, Kyunghyun and Sukhbaatar, Sainbayar and Xu, Jing and Weston, Jason},
+  journal={arXiv preprint arXiv:2401.10020},
+  year={2024}
+}
