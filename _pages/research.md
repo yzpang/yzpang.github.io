@@ -108,7 +108,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2401.10020.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/yuan2024self.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/self-reward-articles.html" style="color: #245ED2; text-decoration: none">press, articles, videos</a>]
+[<a href="https://arxiv.org/pdf/2401.10020.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/yuan2024self.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/self-reward-articles.html" style="color: #245ED2; text-decoration: none">press and other mentions</a>]
 
 
 <br><br>
