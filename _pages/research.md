@@ -84,7 +84,7 @@ p.noindent {
 
 
 <ul class="small" style="font-size: 11.5pt">
-<li> <b>Learning from rewards in text generation</b>: <a href="https://arxiv.org/abs/2009.07839" style="color: #245ED2; text-decoration: none">GOLD</a> (offline RL), <a href="https://arxiv.org/abs/2112.08670" style="color: #245ED2; text-decoration: none">amortized noisy channel NMT</a> (off-policy RL & knowledge distillation), <a href="https://arxiv.org/abs/2211.08714" style="color: #245ED2; text-decoration: none">reward gaming</a> (on-policy RL), <a href="https://arxiv.org/abs/2106.02278" style="color: #245ED2; text-decoration: none">AgreeSum</a> (on-policy RL for multi-doc summarization), <a href="https://arxiv.org/abs/2005.00850" style="color: #245ED2; text-decoration: none">ENGINE for non-autoregressive NMT</a> ("soft" knowledge distillation), <a href="https://arxiv.org/abs/2307.14117" style="color: #245ED2; text-decoration: none">implicit feedback in dialogue</a> (extracting implicit reward from deployment data), <a href="https://arxiv.org/abs/2401.10020" style="color: #245ED2; text-decoration: none">self-rewarding LLM</a>, etc.</li>
+<li> <b>Learning from rewards in text generation</b>: <a href="https://arxiv.org/abs/2009.07839" style="color: #245ED2; text-decoration: none">GOLD</a> (offline RL), <a href="https://arxiv.org/abs/2112.08670" style="color: #245ED2; text-decoration: none">amortized noisy channel NMT</a> (off-policy RL & knowledge distillation), <a href="https://arxiv.org/abs/2211.08714" style="color: #245ED2; text-decoration: none">reward gaming</a> (on-policy RL), <a href="https://arxiv.org/abs/2106.02278" style="color: #245ED2; text-decoration: none">AgreeSum</a> (on-policy RL for multi-doc summarization), <a href="https://arxiv.org/abs/2005.00850" style="color: #245ED2; text-decoration: none">ENGINE for non-autoregressive NMT</a> ("soft" knowledge distillation), <a href="https://arxiv.org/abs/2307.14117" style="color: #245ED2; text-decoration: none">implicit feedback in dialogue</a> (extracting implicit reward from deployment data), <a href="https://arxiv.org/abs/2401.10020" style="color: #245ED2; text-decoration: none">self-rewarding LLM</a>, <a href="https://arxiv.org/abs/2404.19733" style="color: #245ED2; text-decoration: none">iterative reasoning preference optimization</a>, etc.</li>
 
 <li> <b>Reasoning</b>: <a href="https://arxiv.org/abs/2305.15269" style="color: #439371; text-decoration: none">PrOntoQA-OOD</a> (deductive reasoning); I'm currently working on improving reasoning capabilities in general </li>
 
@@ -99,8 +99,24 @@ p.noindent {
 
 
 <p class="small">
+<span style="font-weight:500"> <a name="exactline-iterative-rpo" href="https://arxiv.org/abs/2404.19733" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Iterative Reasoning Preference Optimization  </a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston </span>
+<br>
+<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, January 2024 </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> Iterative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme. While only relying on examples in the training set, our approach results in increasing accuracy for Llama-2-70B-Chat from 55.6% to 81.6% on GSM8K (and 88.7% with majority voting out of 32 samples), from 12.5% to 20.8% on MATH, and from 77.8% to 86.7% on ARC-Challenge, which outperforms other Llama-2-based models not relying on additionally sourced datasets.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2404.19733.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2024iterative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+
+
+<br><br>
+
+
+<p class="small">
 <span style="font-weight:500"> <a name="exactline-self-rewarding-lm" href="https://arxiv.org/abs/2401.10020" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Self-Rewarding Language Models </a> <br> </span>
-<span style="line-height:160%"> Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston </span>
+<span style="line-height:160%"> Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston </span>
 <br>
 <span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, January 2024 </span>
 
@@ -292,7 +308,7 @@ p.noindent {
 
 <!-- <font size="3"> -->
 <p class="small">
-<span style="font-weight:500"> <a name="exactline-acl21-a" href="https://arxiv.org/abs/2106.00840" style="font-size: 11pt; color: #22789D; text-decoration: none"> Comparing Test Sets with Item Response Theory</a> <br> </span>
+<span style="font-weight:500"> <a name="exactline-acl21-a" href="https://arxiv.org/abs/2106.00840" style="font-size: 11pt; color: #757575; text-decoration: none"> Comparing Test Sets with Item Response Theory</a> <br> </span>
 <span style="line-height:160%"> Clara Vania<sup>*</sup>, Phu Mon Htut<sup>*</sup>, William Huang<sup>*</sup>, Dhara Mungra, Richard Yuanzhe Pang, Jason Phang, Haokun Liu, Kyunghyun Cho, Samuel R. Bowman </span>
 <br>
 <span style="line-height:180%; font-size: 10pt"> In <i>Proceedings of ACL 2021</i> </span>
@@ -301,7 +317,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2106.00840.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/nlu-test-sets" style="color: #22789D; text-decoration: none">code</a>] [<a href="../misc-files/bibs/vania2021comparing.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2106.00840.pdf" style="color: #757575; text-decoration: none">paper</a>] [<a href="https://github.com/nyu-mll/nlu-test-sets" style="color: #757575; text-decoration: none">code</a>] [<a href="../misc-files/bibs/vania2021comparing.txt" style="color: #757575; text-decoration: none">bibtex</a>]
 
 
 <br><br>
@@ -379,7 +395,7 @@ https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2
 
 
 <p class="small">
-<span style="font-weight:500"> <a href="https://arxiv.org/abs/2005.00628" name="exactline-acl20-b" style="font-size: 11pt; color: #22789D; text-decoration: none"> Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work? </a> <br> </span>
+<span style="font-weight:500"> <a href="https://arxiv.org/abs/2005.00628" name="exactline-acl20-b" style="font-size: 11pt; color: #757575; text-decoration: none"> Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work? </a> <br> </span>
 <span style="line-height:160%"> Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann, Samuel R. Bowman</span>
 <br>
 <span style="line-height:180%; font-size: 10pt"> In <i>Proceedings of ACL 2020</i> </span>
@@ -388,7 +404,7 @@ https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2005.00628.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pruksachatkun2020intermediate.txt" style="color: #22789D; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2005.00628.pdf" style="color: #757575; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pruksachatkun2020intermediate.txt" style="color: #757575; text-decoration: none">bibtex</a>]
 
 
 <br><br>
