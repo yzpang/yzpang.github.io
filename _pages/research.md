@@ -118,7 +118,7 @@ p.noindent {
 <span style="font-weight:500"> <a name="exactline-self-rewarding-lm" href="https://arxiv.org/abs/2401.10020" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Self-Rewarding Language Models </a> <br> </span>
 <span style="line-height:160%"> Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston </span>
 <br>
-<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, January 2024 </span>
+<span style="line-height:180%; font-size: 10pt"> To appear in <i>Proceedings of EACL 2024</i> </span>
 
 <p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal. Current approaches commonly train reward models from human preferences, which may then be bottlenecked by human performance level, and secondly these separate frozen reward models cannot then learn to improve during LLM training. In this work, we study Self-Rewarding Language Models, where the language model itself is used via LLM-as-a-Judge prompting to provide its own rewards during training. We show that during Iterative DPO training that not only does instruction following ability improve, but also the ability to provide high-quality rewards to itself. Fine-tuning Llama 2 70B on three iterations of our approach yields a model that outperforms many existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613. While only a preliminary study, this work opens the door to the possibility of models that can continually improve in both axes.
 
