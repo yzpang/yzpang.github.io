@@ -1,0 +1,6 @@
+@article{bordes2024introduction,
+  title={An Introduction to Vision-Language Modeling},
+  author={Bordes, Florian and Pang, Richard Yuanzhe and Ajay, Anurag and Li, Alexander C and Bardes, Adrien and Petryk, Suzanne and Ma{\~n}as, Oscar and Lin, Zhiqiu and Mahmoud, Anas and Jayaraman, Bargav and others},
+  journal={arXiv preprint arXiv:2405.17247},
+  year={2024}
+}
