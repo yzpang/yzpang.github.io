@@ -1,5 +1,5 @@
 @article{pang2024iterative,
-  title={Iterative Reasoning Preference Optimization},
+  title={Iterative reasoning preference optimization},
   author={Pang, Richard Yuanzhe and Yuan, Weizhe and Cho, Kyunghyun and He, He and Sukhbaatar, Sainbayar and Weston, Jason},
   journal={arXiv preprint arXiv:2404.19733},
   year={2024}
