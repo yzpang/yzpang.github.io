@@ -317,13 +317,13 @@ p.noindent {
 <span style="font-weight:500"> <a name="exactline-iterative-rpo" href="https://arxiv.org/abs/2404.19733" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Iterative Reasoning Preference Optimization  </a> <br /> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston </span>
 <br />
-<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, January 2024 </span>
+<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, April 2024 </span>
 
 <p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> Iterative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme. While only relying on examples in the training set, our approach results in increasing accuracy for Llama-2-70B-Chat from 55.6% to 81.6% on GSM8K (and 88.7% with majority voting out of 32 samples), from 12.5% to 20.8% on MATH, and from 77.8% to 86.7% on ARC-Challenge, which outperforms other Llama-2-based models not relying on additionally sourced datasets.
 
 <br /><br />
 
-[<a href="https://arxiv.org/pdf/2404.19733.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2024iterative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
+[<a href="https://arxiv.org/pdf/2404.19733.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2024iterative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/irpo-others.html" style="color: #245ED2; text-decoration: none">selected uses</a>]
 
 
 <br /><br />
@@ -346,6 +346,37 @@ p.noindent {
 
 
 <p class="small">
+<span style="font-weight:500"> <a name="exactline-gpqa" href="https://arxiv.org/abs/2311.12022" style="font-size: 11pt; color: #22789D; text-decoration: none"> GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark </a> <br /> </span>
+<span style="line-height:160%"> David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman </span>
+<br />
+<span style="line-height:180%; font-size: 10pt"> In <i>Proceedings of Conference on Language Modeling (COLM) 2024</i> </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are "Google-proof"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to use future AI systems to help us answer very hard questions, for example, when developing new scientific knowledge, we need to develop scalable oversight methods that enable humans to supervise their outputs, which may be difficult even if the supervisors are themselves skilled and knowledgeable. The difficulty of GPQA both for skilled non-experts and frontier AI systems should enable realistic scalable oversight experiments, which we hope can help devise ways for human experts to reliably get truthful information from AI systems that surpass human capabilities. 
+<br /><br />
+
+[<a href="https://arxiv.org/pdf/2311.12022.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/idavidrein/gpqa" style="color: #22789D; text-decoration: none">data &amp; code</a>] [<a href="../misc-files/bibs/rein2023gpqa.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/gpqa-articles.html" style="color: #22789D; text-decoration: none">press and other mentions</a>]
+
+
+<br /><br />
+
+
+
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-vlm" href="https://arxiv.org/abs/2405.17247" style="font-size: 11pt; color: #757575; text-decoration: none"> An Introduction to Vision-Language Modeling  </a> <br /> </span>
+<span style="line-height:120%; font-size: 8pt"> Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, Alexander C. Li, Adrien Bardes, Suzanne Petryk, Oscar Mañas, Zhiqiu Lin, Anas Mahmoud, Bargav Jayaraman, Mark Ibrahim, Melissa Hall, Yunyang Xiong, Jonathan Lebensold, Candace Ross, Srihari Jayakumar, Chuan Guo, Diane Bouchacourt, Haider Al-Tahan, Karthik Padthe, Vasu Sharma, Hu Xu, Xiaoqing Ellen Tan, Megan Richards, Samuel Lavoie, Pietro Astolfi, Reyhane Askari Hemmat, Jun Chen, Kushal Tirumala, Rim Assouel, Mazda Moayeri, Arjang Talattof, Kamalika Chaudhuri, Zechun Liu, Xilun Chen, Quentin Garrido, Karen Ullrich, Aishwarya Agrawal, Kate Saenko, Asli Celikyilmaz, Vikas Chandra </span>
+<br />
+<span style="line-height:210%; font-size: 10pt"> <i>Preprint</i>, November 2023 </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> Following the recent popularity of Large Language Models (LLMs), several attempts have been made to extend them to the visual domain. From having a visual assistant that could guide us through unfamiliar environments to generative models that produce images using only a high-level text description, the vision-language model (VLM) applications will significantly impact our relationship with technology. However, there are many challenges that need to be addressed to improve the reliability of those models. While language is discrete, vision evolves in a much higher dimensional space in which concepts cannot always be easily discretized. To better understand the mechanics behind mapping vision to language, we present this introduction to VLMs which we hope will help anyone who would like to enter the field. First, we introduce what VLMs are, how they work, and how to train them. Then, we present and discuss approaches to evaluate VLMs. Although this work primarily focuses on mapping images to language, we also discuss extending VLMs to videos.
+<br /><br />
+
+[<a href="https://arxiv.org/pdf/2405.17247.pdf" style="color: #757575; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/bordes2024introduction.txt" style="color: #757575; text-decoration: none">bibtex</a>] 
+
+
+<br /><br />
+
+
+<p class="small">
 <span style="font-weight:500"> <a name="exactline-dialogue-implicit-feedback" href="https://arxiv.org/abs/2307.14117" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Leveraging Implicit Feedback from Deployment Data in Dialogue </a> <br /> </span>
 <span style="line-height:160%"> Richard Yuanzhe Pang, Stephen Roller, Kyunghyun Cho, He He, Jason Weston </span>
 <br />
@@ -356,21 +387,6 @@ p.noindent {
 <br /><br />
 
 [<a href="https://arxiv.org/pdf/2307.14117.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2023leveraging.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
-
-
-<br /><br />
-
-
-<p class="small">
-<span style="font-weight:500"> <a name="exactline-gpqa" href="https://arxiv.org/abs/2311.12022" style="font-size: 11pt; color: #22789D; text-decoration: none"> GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark </a> <br /> </span>
-<span style="line-height:160%"> David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman </span>
-<br />
-<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, November 2023 </span>
-
-<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are "Google-proof"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to use future AI systems to help us answer very hard questions, for example, when developing new scientific knowledge, we need to develop scalable oversight methods that enable humans to supervise their outputs, which may be difficult even if the supervisors are themselves skilled and knowledgeable. The difficulty of GPQA both for skilled non-experts and frontier AI systems should enable realistic scalable oversight experiments, which we hope can help devise ways for human experts to reliably get truthful information from AI systems that surpass human capabilities. 
-<br /><br />
-
-[<a href="https://arxiv.org/pdf/2311.12022.pdf" style="color: #22789D; text-decoration: none">paper</a>] [<a href="https://github.com/idavidrein/gpqa" style="color: #22789D; text-decoration: none">data &amp; code</a>] [<a href="../misc-files/bibs/rein2023gpqa.txt" style="color: #22789D; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/gpqa-articles.html" style="color: #22789D; text-decoration: none">press and other mentions</a>]
 
 
 <br /><br />
@@ -665,7 +681,7 @@ https://github.com/yzpang/gold-off-policy-text-gen-iclr21" style="color: #245ED2
 
 
 
-</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></body></html>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></body></html>
 
   </div>
 </div>
