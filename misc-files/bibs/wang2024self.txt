@@ -1,0 +1,6 @@
+@article{wang2024self,
+  title={Self-Taught Evaluators},
+  author={Wang, Tianlu and Kulikov, Ilia and Golovneva, Olga and Yu, Ping and Yuan, Weizhe and Dwivedi-Yu, Jane and Pang, Richard Yuanzhe and Fazel-Zarandi, Maryam and Weston, Jason and Li, Xian},
+  journal={arXiv preprint arXiv:2408.02666},
+  year={2024}
+}
