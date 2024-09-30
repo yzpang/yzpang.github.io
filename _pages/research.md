@@ -82,6 +82,24 @@ p.noindent {
 <span style="line-height:170%"> <u> Publications and preprints (2023-) </u> </span>
 
 
+
+
+<p class="small">
+<span style="font-weight:500"> <a name="exactline-iterative-rpo" href="https://arxiv.org/abs/2404.19733" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Iterative Reasoning Preference Optimization  </a> <br> </span>
+<span style="line-height:160%"> Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston </span>
+<br>
+<span style="line-height:180%; font-size: 10pt"> To appear in <i>Proceedings of NeurIPS 2024</i> </span>
+
+<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> Iterative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme. While only relying on examples in the training set, our approach results in increasing accuracy for Llama-2-70B-Chat from 55.6% to 81.6% on GSM8K (and 88.7% with majority voting out of 32 samples), from 12.5% to 20.8% on MATH, and from 77.8% to 86.7% on ARC-Challenge, which outperforms other Llama-2-based models not relying on additionally sourced datasets.
+
+<br><br>
+
+[<a href="https://arxiv.org/pdf/2404.19733.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2024iterative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/irpo-others.html" style="color: #245ED2; text-decoration: none">notable use cases</a>]
+
+
+<br><br>
+
+
 <p class="small">
 <span style="font-weight:500"> <a name="exactline-self-taught-evaluators" href="https://arxiv.org/abs/2408.02666" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Self-Taught Evaluators </a> <br> </span>
 <span style="line-height:160%"> Tianlu Wang, Ilia Kulikov, Olga Golovneva, Ping Yu, Weizhe Yuan, Jane Dwivedi-Yu, Richard Yuanzhe Pang, Maryam Fazel-Zarandi, Jason Weston, Xian Li </span>
@@ -93,23 +111,7 @@ p.noindent {
 
 <br><br>
 
-[<a href="https://arxiv.org/pdf/2408.02666.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/wang2024self.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] 
-
-
-<br><br>
-
-
-<p class="small">
-<span style="font-weight:500"> <a name="exactline-iterative-rpo" href="https://arxiv.org/abs/2404.19733" style="font-size: 11pt; color: #245ED2; text-decoration: none"> Iterative Reasoning Preference Optimization  </a> <br> </span>
-<span style="line-height:160%"> Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston </span>
-<br>
-<span style="line-height:180%; font-size: 10pt"> <i>Preprint</i>, April 2024 </span>
-
-<p style="font-size:10pt; margin-left: 15px; line-height:140%"> <b> Abstract:</b> Iterative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme. While only relying on examples in the training set, our approach results in increasing accuracy for Llama-2-70B-Chat from 55.6% to 81.6% on GSM8K (and 88.7% with majority voting out of 32 samples), from 12.5% to 20.8% on MATH, and from 77.8% to 86.7% on ARC-Challenge, which outperforms other Llama-2-based models not relying on additionally sourced datasets.
-
-<br><br>
-
-[<a href="https://arxiv.org/pdf/2404.19733.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="../misc-files/bibs/pang2024iterative.txt" style="color: #245ED2; text-decoration: none">bibtex</a>] | by others: [<a href="../misc-files/links/irpo-others.html" style="color: #245ED2; text-decoration: none">notable use cases</a>]
+[<a href="https://arxiv.org/pdf/2408.02666.pdf" style="color: #245ED2; text-decoration: none">paper</a>] [<a href="https://github.com/facebookresearch/RAM/tree/main/projects/self_taught_evaluator" style="color: #245ED2; text-decoration: none">code</a>] [<a href="https://huggingface.co/facebook/Self-taught-evaluator-llama3.1-70B" style="color: #245ED2; text-decoration: none">model</a>] [<a href="https://huggingface.co/datasets/facebook/Self-taught-evaluator-DPO-data" style="color: #245ED2; text-decoration: none">synthetic data</a>] [<a href="../misc-files/bibs/wang2024self.txt" style="color: #245ED2; text-decoration: none">bibtex</a>]
 
 
 <br><br>
