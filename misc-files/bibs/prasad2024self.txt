@@ -1,0 +1,6 @@
+@article{prasad2024self,
+  title={Self-Consistency Preference Optimization},
+  author={Prasad, Archiki and Yuan, Weizhe and Pang, Richard Yuanzhe and Xu, Jing and Fazel-Zarandi, Maryam and Bansal, Mohit and Sukhbaatar, Sainbayar and Weston, Jason and Yu, Jane},
+  journal={arXiv preprint arXiv:2411.04109},
+  year={2024}
+}
