@@ -1,0 +1,6 @@
+@article{yu2024self,
+  title={Self-Generated Critiques Boost Reward Modeling for Language Models},
+  author={Yu, Yue and Chen, Zhengxing and Zhang, Aston and Tan, Liang and Zhu, Chenguang and Pang, Richard Yuanzhe and Qian, Yundi and Wang, Xuewei and Gururangan, Suchin and Zhang, Chao and others},
+  journal={arXiv preprint arXiv:2411.16646},
+  year={2024}
+}
