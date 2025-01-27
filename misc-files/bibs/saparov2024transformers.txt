@@ -1,0 +1,6 @@
+@article{saparov2024transformers,
+  title={Transformers Struggle to Learn to Search},
+  author={Saparov, Abulhair and Pawar, Srushti and Pimpalgaonkar, Shreyas and Joshi, Nitish and Pang, Richard Yuanzhe and Padmakumar, Vishakh and Kazemi, Seyed Mehran and Kim, Najoung and He, He},
+  journal={arXiv preprint arXiv:2412.04703},
+  year={2024}
+}
