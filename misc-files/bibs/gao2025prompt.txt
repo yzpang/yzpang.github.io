@@ -1,0 +1,6 @@
+@article{gao2025prompt,
+  title={Prompt Curriculum Learning for Efficient LLM Post-Training},
+  author={Gao, Zhaolin and Kim, Joongwon and Sun, Wen and Joachims, Thorsten and Wang, Sid and Pang, Richard Yuanzhe and Tan, Liang},
+  journal={arXiv preprint arXiv:2510.01135},
+  year={2025}
+}
