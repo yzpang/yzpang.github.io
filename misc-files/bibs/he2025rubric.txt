@@ -1,0 +1,6 @@
+@article{he2025rubric,
+  title={Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following},
+  author={He, Yun and Li, Wenzhe and Zhang, Hejia and Li, Songlin and Mandyam, Karishma and Khosla, Sopan and Xiong, Yuanhao and Wang, Nanshu and Peng, Selina and Li, Beibin and others},
+  journal={arXiv preprint arXiv:2511.10507},
+  year={2025}
+}
