@@ -1,3 +1,12 @@
+@inproceedings{
+  gao2026prompt,
+  title={Prompt Curriculum Learning for Efficient {LLM} Post-Training},
+  author={Zhaolin Gao and Joongwon Kim and Wen Sun and Thorsten Joachims and Sid Wang and Richard Yuanzhe Pang and Liang Tan},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=zqOCacBD3P}
+}
+
 @article{gao2025prompt,
   title={Prompt Curriculum Learning for Efficient LLM Post-Training},
   author={Gao, Zhaolin and Kim, Joongwon and Sun, Wen and Joachims, Thorsten and Wang, Sid and Pang, Richard Yuanzhe and Tan, Liang},
