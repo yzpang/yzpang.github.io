@@ -1,0 +1,6 @@
+@article{wang2026opd,
+  title={OPD Before RL: Warm-Starting Rubric-Based RL with On-Policy Distillation},
+  author={Wang, Xinpeng and Shi, Wei and Chen, Yu-Chia and Zontak, Maria and He, Yun and Pang, Richard Yuanzhe},
+  journal={arXiv preprint arXiv:2610.02781},
+  year={2026}
+}
